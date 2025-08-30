@@ -27,3 +27,9 @@ It also includes links to my **LinkedIn, GitHub, and Resume (PDF)** so recruiter
 
 ## 📂 Repository Structure
 
+charu-portfolio/
+│── index.html # Main webpage
+│── styles.css # Styling
+│── script.js # JS interactivity
+│── assets/ # Resume PDF, profile image, certificates, etc.
+
