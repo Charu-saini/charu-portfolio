@@ -17,11 +17,6 @@ It also includes links to my **LinkedIn, GitHub, and Resume (PDF)** so recruiter
 
 ---
 
-## 🔗 Live Demo
-👉 [View Portfolio](https://<your-username>.github.io/charu-portfolio/)  
-
----
-
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3 (responsive design)  
